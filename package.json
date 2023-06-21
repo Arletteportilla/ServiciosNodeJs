@@ -1,0 +1,12 @@
+{
+    "name": "gestion-turnos-veterinaria",
+    "version": "1.0.0",
+    "description": "Servicio web para gestión de turnos en una veterinaria",
+    "main": "app.js",
+    "scripts": {
+        "start": "node app.js"
+    },
+    "dependencies": {
+        "express": "^4.18.2"
+    }
+}
